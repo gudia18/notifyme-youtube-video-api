@@ -1,4 +1,4 @@
-# Notify_me: YouTube Video Fetcher API
+# notifyme-youtube-video-api: YouTube Video Fetcher API
 
 ## Features
 - Fetches latest YouTube videos for a search query every 10 seconds
@@ -41,6 +41,7 @@ docker-compose up --build
 - MongoDB (Mongoose)
 - Axios
 - Docker
+
 
 
 
