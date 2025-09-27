@@ -42,6 +42,5 @@ docker-compose up --build
 - Axios
 - Docker
 
-## Contact
-Send your submission (Git repository) link at wasil@serri.club
+
 
