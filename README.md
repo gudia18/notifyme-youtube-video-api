@@ -13,7 +13,7 @@
 ### 1. Clone & Configure
 ```
 git clone <repo-url>
-cd Notify_me
+cd notifyme-youtube-video-api
 ```
 
 Edit `docker-compose.yml` and set your YouTube API keys:
@@ -44,3 +44,4 @@ docker-compose up --build
 
 ## Contact
 Send your submission (Git repository) link at wasil@serri.club
+
